@@ -1,0 +1,10 @@
+-r requirements.txt
+
+pytest
+httpx
+xgboost==3.4.1
+shap
+matplotlib
+jupyter
+ipykernel
+scipy

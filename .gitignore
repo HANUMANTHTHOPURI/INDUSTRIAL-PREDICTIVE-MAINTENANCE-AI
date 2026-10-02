@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Testing
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+# Reproduced model artifact
+models/predictive_maintenance_rf_reproduced.joblib
+
+# Accidental/generated root image
+-2.png
